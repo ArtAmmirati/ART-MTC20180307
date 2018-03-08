@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\bin\Debug\Vendor Addresses.exe.config
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\bin\Debug\Vendor Addresses.exe
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\bin\Debug\Vendor Addresses.pdb
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor Addresses.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor_Addresses.Form1.resources
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor_Addresses.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor Addresses.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor Addresses.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor Addresses.exe
+C:\Users\MTCStudent\Desktop\Vendor Addresses\Vendor Addresses\obj\Debug\Vendor Addresses.pdb
